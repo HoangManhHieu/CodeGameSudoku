@@ -1,6 +1,6 @@
 +) Hướng dẫn cài đặt
 
-•	Người dung download file cp
+•	Người dung download file .cpp
 
 •	Mở file trong các IDE ( DevC++, Visual Studio Code,…)
 
